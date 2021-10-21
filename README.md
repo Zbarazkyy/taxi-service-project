@@ -1,7 +1,7 @@
 ### *`Taxi Service - web app`*
 
-**`You can see how the program works on a remote server by following
-this link [will be a link](https://github.com/Zbarazkyy/)`** <br><br>
+_You can see how the program works on a remote server by following
+this link [will be a link](https://github.com/Zbarazkyy/)_ <br><br>
 
 #### _This is a simple web project takis service._ 
 #### _Implemented Taxi-Service web application shows my skills in  JavaCore, OOP, SOLID, OPTIONAL, RDBMS, JDBC, WEB_ <br><br>
