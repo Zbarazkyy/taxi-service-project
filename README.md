@@ -1,12 +1,15 @@
-# `Taxi Service - web app`
+#### *Taxi Service - web app*
 
 
-##### Training project on the completion of Java Web course. Web-application of Taxi- Service is implemented. This project shows my skills in JavaCore, OOP, SOLID, RDBMS, JDBC, WEB
+#### _This is a simple web project takis service._ 
+#### _Implemented Taxi-Service web application shows my skills in  JavaCore, OOP, SOLID, OPTIONAL, RDBMS, JDBC, WEB_
 
+**`You can see how the program works on a remote server by following
+this link [will be a link](https://github.com/Zbarazkyy/)`**
 
 ***`Functionality of the service:`*** <br> 
-The user can add drivers, cars and car manufacturers and remove them. 
-Add drivers to a car. 
+The user can add drivers, cars and car manufacturers and remove them. <br>
+Add drivers to a car. <br>
 Display lists of cars, drivers, manufacturers and drivers which are attached to the car.
 
 
@@ -26,5 +29,3 @@ Display lists of cars, drivers, manufacturers and drivers which are attached to 
 and add your URL to the database, login, password and JDBC driver there._
 - _Run this project using a local Tomcat server_
 
-**You can also see how the program works on a remote server by following 
-this link [will be a link](https://github.com/Zbarazkyy/)**
