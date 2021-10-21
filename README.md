@@ -1,6 +1,4 @@
-#### *Taxi Service - web app*
-
-
+### *`Taxi Service - web app`*
 #### _This is a simple web project takis service._ 
 #### _Implemented Taxi-Service web application shows my skills in  JavaCore, OOP, SOLID, OPTIONAL, RDBMS, JDBC, WEB_
 
